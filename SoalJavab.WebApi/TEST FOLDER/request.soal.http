@@ -1,0 +1,12 @@
+post https://localhost:5001/api/Soal
+Authorization:    Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIyOTMyYTNlYS1iMzVjLTgxN2ItYjBkMC01ZDlkNmJjOTFlMTMiLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo1MDAxLyIsImlhdCI6MTU3OTExNjU4OSwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZWlkZW50aWZpZXIiOiIxIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6Im1vaHNlbiIsIkRpc3BsYXlOYW1lIjoibW9oc2VuIGJhaHJhbWkiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3NlcmlhbG51bWJlciI6Im5ibmJuIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy91c2VyZGF0YSI6IjEiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOlsiQWRtaW4iLCJVc2VyIl0sIm5iZiI6MTU3OTExNjU4OSwiZXhwIjoxNTc5MTE2NzA5LCJhdWQiOiJBbnkifQ.YyXLS9rYzvRBzvPPBgYgpoF1gD4G2Sfo9-O5qZqzPDo
+Content-Type: application/json
+
+{
+    "Matn": "ryy",
+    "ZirReshtehId": "1",
+    "Tags": [{
+    "id": "1",
+    "name": "photoshop"
+}]
+}

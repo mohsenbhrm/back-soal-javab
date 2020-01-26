@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SoalJavab.Services/1.0.0": {
+        "dependencies": {
+          "SoalJavab.Common": "1.0.0",
+          "SoalJavab.DataLayer": "1.0.0",
+          "SoalJavab.DomainClasses": "1.0.0"
+        },
+        "runtime": {
+          "SoalJavab.Services.dll": {}
+        }
+      },
+      "SoalJavab.Common/1.0.0": {
+        "runtime": {
+          "SoalJavab.Common.dll": {}
+        }
+      },
+      "SoalJavab.DataLayer/1.0.0": {
+        "dependencies": {
+          "SoalJavab.DomainClasses": "1.0.0"
+        },
+        "runtime": {
+          "SoalJavab.DataLayer.dll": {}
+        }
+      },
+      "SoalJavab.DomainClasses/1.0.0": {
+        "runtime": {
+          "SoalJavab.DomainClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoalJavab.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoalJavab.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoalJavab.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoalJavab.DomainClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

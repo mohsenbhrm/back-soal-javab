@@ -1,0 +1,4 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\obj\Debug\netstandard2.0\SoalJavabRestFull.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\obj\Debug\netstandard2.0\SoalJavabRestFull.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\obj\Debug\netstandard2.0\SoalJavabRestFull.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\obj\Debug\netstandard2.0\SoalJavabRestFull.AssemblyInfo.cs

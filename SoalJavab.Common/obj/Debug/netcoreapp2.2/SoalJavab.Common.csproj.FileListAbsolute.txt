@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\bin\Debug\netcoreapp2.2\SoalJavab.Common.deps.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\bin\Debug\netcoreapp2.2\SoalJavab.Common.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\bin\Debug\netcoreapp2.2\SoalJavab.Common.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\obj\Debug\netcoreapp2.2\SoalJavab.Common.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\obj\Debug\netcoreapp2.2\SoalJavab.Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\obj\Debug\netcoreapp2.2\SoalJavab.Common.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\obj\Debug\netcoreapp2.2\SoalJavab.Common.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\obj\Debug\netcoreapp2.2\SoalJavab.Common.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.Common\obj\Debug\netcoreapp2.2\SoalJavab.Common.pdb

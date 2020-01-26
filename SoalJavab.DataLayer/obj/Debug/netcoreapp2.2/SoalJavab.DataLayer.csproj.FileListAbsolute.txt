@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DataLayer.deps.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DataLayer.runtimeconfig.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DataLayer.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DataLayer.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DataLayer.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.csproj.CopyComplete
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DataLayer\obj\Debug\netcoreapp2.2\SoalJavab.DataLayer.pdb

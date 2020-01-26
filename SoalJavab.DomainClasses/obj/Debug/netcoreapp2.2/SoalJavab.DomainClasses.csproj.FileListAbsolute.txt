@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.deps.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.runtimeconfig.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\bin\Debug\netcoreapp2.2\SoalJavab.DomainClasses.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\obj\Debug\netcoreapp2.2\SoalJavab.DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\obj\Debug\netcoreapp2.2\SoalJavab.DomainClasses.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\obj\Debug\netcoreapp2.2\SoalJavab.DomainClasses.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\obj\Debug\netcoreapp2.2\SoalJavab.DomainClasses.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\obj\Debug\netcoreapp2.2\SoalJavab.DomainClasses.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\SoalJavabRestFull\SoalJavab.DomainClasses\obj\Debug\netcoreapp2.2\SoalJavab.DomainClasses.csprojAssemblyReference.cache

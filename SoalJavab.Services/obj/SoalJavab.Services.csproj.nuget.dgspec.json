@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Services\\SoalJavab.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Common\\SoalJavab.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Common\\SoalJavab.Common.csproj",
+        "projectName": "SoalJavab.Common",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Common\\SoalJavab.Common.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DataLayer\\SoalJavab.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DataLayer\\SoalJavab.DataLayer.csproj",
+        "projectName": "SoalJavab.DataLayer",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DataLayer\\SoalJavab.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj",
+        "projectName": "SoalJavab.DomainClasses",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Services\\SoalJavab.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Services\\SoalJavab.Services.csproj",
+        "projectName": "SoalJavab.Services",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Services\\SoalJavab.Services.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Common\\SoalJavab.Common.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.Common\\SoalJavab.Common.csproj"
+              },
+              "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DataLayer\\SoalJavab.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DataLayer\\SoalJavab.DataLayer.csproj"
+              },
+              "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2017\\Projects\\SoalJavabRestFull\\SoalJavab.DomainClasses\\SoalJavab.DomainClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

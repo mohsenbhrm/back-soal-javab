@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoalJavab.WebApi", "SoalJavab.WebApi\SoalJavab.WebApi.csproj", "{E7B22FB7-7677-405C-9A53-6EB6654E8CCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoalJavab.DomainClasses", "SoalJavab.DomainClasses\SoalJavab.DomainClasses.csproj", "{F38C9DCF-FC3B-4756-AFC1-7E547F4C843D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoalJavab.DataLayer", "SoalJavab.DataLayer\SoalJavab.DataLayer.csproj", "{3D5A2AEC-DCE3-404C-82B2-072A32FA35A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoalJavab.Services", "SoalJavab.Services\SoalJavab.Services.csproj", "{E43613F2-128A-4F1A-83A5-A2C74A3CB110}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoalJavab.Ioc", "SoalJavab.Ioc\SoalJavab.Ioc.csproj", "{96CE672E-AEF7-4FCB-B654-02BA454C43A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoalJavab.Common", "SoalJavab.Common\SoalJavab.Common.csproj", "{0D96DE64-C27E-4C39-9EB7-09D79505F8F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B22FB7-7677-405C-9A53-6EB6654E8CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B22FB7-7677-405C-9A53-6EB6654E8CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B22FB7-7677-405C-9A53-6EB6654E8CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B22FB7-7677-405C-9A53-6EB6654E8CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38C9DCF-FC3B-4756-AFC1-7E547F4C843D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38C9DCF-FC3B-4756-AFC1-7E547F4C843D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38C9DCF-FC3B-4756-AFC1-7E547F4C843D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38C9DCF-FC3B-4756-AFC1-7E547F4C843D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5A2AEC-DCE3-404C-82B2-072A32FA35A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5A2AEC-DCE3-404C-82B2-072A32FA35A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5A2AEC-DCE3-404C-82B2-072A32FA35A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5A2AEC-DCE3-404C-82B2-072A32FA35A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43613F2-128A-4F1A-83A5-A2C74A3CB110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43613F2-128A-4F1A-83A5-A2C74A3CB110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43613F2-128A-4F1A-83A5-A2C74A3CB110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43613F2-128A-4F1A-83A5-A2C74A3CB110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CE672E-AEF7-4FCB-B654-02BA454C43A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CE672E-AEF7-4FCB-B654-02BA454C43A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CE672E-AEF7-4FCB-B654-02BA454C43A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CE672E-AEF7-4FCB-B654-02BA454C43A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D96DE64-C27E-4C39-9EB7-09D79505F8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96DE64-C27E-4C39-9EB7-09D79505F8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96DE64-C27E-4C39-9EB7-09D79505F8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96DE64-C27E-4C39-9EB7-09D79505F8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBECA281-F055-49F2-8A37-D25F07D62876}
+	EndGlobalSection
+EndGlobal
